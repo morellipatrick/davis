@@ -1,3 +1,3 @@
-DAVIS QGIS Interface Plugins developed in Python.
+QGIS DAVIS Interface Plugins developed in Python.
 Free DAVIS program with example.
 
