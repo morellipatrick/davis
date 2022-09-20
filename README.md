@@ -1,3 +1,3 @@
-DAVGIS QGIS version 3 DAVIS Interface Plugins developed in Python.
-Free DAVIS program with example.
+DAVGIS under QGIS version 3 Interface Plugins developed in langage Python between DAVIS and QGIS.
+Free DAVIS executable program with example.
 
